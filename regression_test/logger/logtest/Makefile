@@ -57,7 +57,7 @@ endif
 COMPILER_FLAGS = -L  
 
 # Execution mode: (either ttcn3 or ttcn3-parallel)
-TTCN3_LIB = ttcn3-parallel
+TTCN3_LIB = ttcn3-parallel-dynamic
 
 # The path of your OpenSSL installation:
 # If you do not have your own one, leave it unchanged.
